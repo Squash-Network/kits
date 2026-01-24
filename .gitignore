@@ -9,7 +9,7 @@ Thumbs.db
 
 # Java
 *.class
-*.jar
+# *.jar
 *.war
 *.ear
 
@@ -21,3 +21,4 @@ logs/
 run/
 reference/
 docs/
+PLUGIN_LOBBY/
